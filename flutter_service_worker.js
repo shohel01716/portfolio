@@ -16,6 +16,7 @@ const RESOURCES = {
 "assets/assets/images/down-arrow.png": "4393cd5feeb20fb468c7eb223d1bbd06",
 "assets/assets/images/DAVID_COBBINA_CV.pdf": "0516a6d443027d43295e07518ea5c67a",
 "assets/assets/images/david_legend.png": "53ea1f34c8af26fb2b0050bee9c1dd1c",
+"assets/assets/images/Resume-Shohel-Rana.pdf": "a3a6f46ecdd90258f2093e51205c2c3f",
 "assets/assets/images/down-arrow-2.png": "de203dedb01f2871b4ebbec490c20a6c",
 "assets/assets/images/google_play.png": "7c42f3803d546db3d393106501dba541",
 "assets/assets/images/up-arrow.png": "d0c6457f5704962b99f0e6aa3e9b18e7",
@@ -37,7 +38,7 @@ const RESOURCES = {
 "assets/assets/fonts/montserrat.ttf": "ee6539921d713482b8ccd4d0d23961bb",
 "assets/assets/fonts/agustina.otf": "7b9833076716a8d14eec0cf885a3153c",
 "assets/FontManifest.json": "df6e242e8becb892a20e043a5f236828",
-"assets/AssetManifest.json": "3b566e6d3f57548febfbda73da1e04d9",
+"assets/AssetManifest.json": "92c7fc833c124e9a5c7a54d8f3994a7c",
 "assets/packages/flutter_feather_icons/fonts/feather.ttf": "c96dc22ca29a082af83cce866d35cebc",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "3241d1d9c15448a4da96df05f3292ffe",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "eaed33dc9678381a55cb5c13edaf241d",
@@ -45,10 +46,10 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"main.dart.js": "c10e32a4500d15824f696da55a6b0b7b",
+"main.dart.js": "452d4bdc7cda03e4ebb325ce12506556",
 "manifest.json": "a83bbbd9d23ea4d752fbcd44cdc544fa",
-"index.html": "2760afbbcb7e069e278a00345b3031a3",
-"/": "2760afbbcb7e069e278a00345b3031a3"
+"index.html": "ffd88021e973d20a9a0f73a3cc1179e4",
+"/": "ffd88021e973d20a9a0f73a3cc1179e4"
 };
 
 // The application shell files that are downloaded before a service worker can

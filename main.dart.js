@@ -57631,7 +57631,7 @@ c=k.goX()
 o=t.kK
 n=k.gpZ()
 m=t.p
-n=E.aba(T.aZ(H.a([A.l5(r,1,12,"Hi! I'm Md. Shohel Rana, a passionate software engineer based in Bangladesh, Dhaka. I enjoy building high quality and performant applications that provides users with value and a rich experience. I love building things than any others things.",j,b,p)],m),C.v,C.o,C.p),n,j,j,"01 ","Summery".toUpperCase(),"A little bit about myself.",i)
+n=E.aba(T.aZ(H.a([A.l5(r,1,12,"Hi! I'm passionate software engineer based in Dhaka, Bangladesh. I really enjoy building high quality applications that provide best user experience with values. I love building my things.",j,b,p)],m),C.v,C.o,C.p),n,j,j,"01 ","Summery".toUpperCase(),"A little bit about myself.",i)
 l=k.gq_()
 l=E.aba(T.aZ(H.a([A.l5(q,1,12,"I use a number of tools to aid my creative process when bringing things to life.",j,b,p)],m),C.v,C.o,C.p),l,new T.fd(new T.a2j(k),T.aZ(H.a([new R.eH(j),new V.GN(k.gw0(),i,j)],m),C.v,C.o,C.p),new D.bO("technology-list",o)),j,"02 ","Technology".toUpperCase(),"What I use.",i)
 b=k.gmg()
@@ -58026,14 +58026,14 @@ n=i.a
 m=n.c
 n=n.d
 n=G.aw(b,n*0.75,n,n,n)
-p=M.Z(h,S.c4(C.h,m,C.w,1,3,"Mobile App Developer",h,o?h:p.cq(C.fh,s),n,1),C.j,h,h,h,h,h,h,C.dJ,h,h,h,h)
+p=M.Z(h,S.c4(C.h,m,C.w,1,3,"Sr. Mobile App Developer",h,o?h:p.cq(C.fh,s),n,1),C.j,h,h,h,h,h,h,C.dJ,h,h,h,h)
 n=L.abN(C.Ap,C.zk,h)
 m=P.bg(0,50)
 l=g.y
 o=l==null
 k=o?h:l.wX(G.aw(b,16,18,h,h),C.q)
 j=t.p
-m=T.bT(H.a([n,new U.H_(U.asX(H.a(["Flutter Developer","UI/UX Enthusiast"],t.s),C.a3,k,m,C.a2),C.bc,!1,!1,h,h,h,h,!0,!0,3,h)],j),C.v,C.o,C.p,h)
+m=T.bT(H.a([n,new U.H_(U.asX(H.a(["Flutter Developer","Android Developer"],t.s),C.a3,k,m,C.a2),C.bc,!1,!1,h,h,h,h,!0,!0,3,h)],j),C.v,C.o,C.p,h)
 o=o?h:l.cM(C.l,G.aw(b,14,16,h,15),C.Y)
 return T.aZ(H.a([r,new R.j5(h),q,new R.j5(h),p,new R.eb(h),m,new R.eb(h),F.Az(C.fi,h,!0,C.ah,50,C.l,new Y.a2h(b),C.vL,200,"See my works".toUpperCase(),o),new R.eH(h),M.Z(h,T.mY(i.VA(b,$.aky()),C.r,20,20),C.j,h,h,h,h,h,h,C.dJ,h,h,h,h)],j),C.E,C.o,C.p)},
 VA(a,b){var s,r=null,q=K.as(a).N.y,p=q==null,o=p?r:q.ep(C.b1),n=p?r:q.cM(C.b1,18,C.q),m=H.a([],t.p)
@@ -58522,7 +58522,7 @@ r=s.Q
 return M.Z(q,T.bT(H.a([Z.aaX(40,r),new R.dl(1,q),R.fC(!1,!0,L.abN(C.Aa,r,30),q,!0,q,q,q,q,q,q,q,q,q,s.r,q,q,q)],t.p),C.v,C.o,C.p,q),C.j,q,q,q,q,q,q,q,C.A2,q,q,p.a.a)}else return s.a4e(a)},
 $S:35}
 G.Wd.prototype={
-$0(){Y.f3("assets/assets/images/Shaheduzzaman.pdf")},
+$0(){Y.f3("assets/assets/images/Resume-Shohel-Rana.pdf")},
 $S:0}
 G.Wb.prototype={
 $0(){this.a.ch.$1(this.b[this.c].b)},
@@ -63938,8 +63938,8 @@ r($,"axZ","akz",function(){return H.a([Y.kt(C.fz,"LinkedIn","https://www.linkedi
 r($,"axW","ae5",function(){return H.a([$.ae6(),$.ae7()],H.N("q<v9>"))})
 r($,"axV","ae4",function(){return H.a([$.ae6(),$.ae7(),$.akN(),$.akO(),$.akP()],H.N("q<v9>"))})
 r($,"axU","akx",function(){return H.a([G.agP("https://github.com/david-legend/amor",!0,!0,!0,!0,"BD Assistant is an on-demand home service app. Save time and get hassle free repairing services of all type of electronics and machines starting from home appliances to vehicle repairing, plumber to electrician services etc.","ASSISTANT","Flutter","https://play.google.com/store/apps/details?id=com.bdassistant.chatbotclient"),G.agP("",!1,!1,!1,!1,"","Diet Achiver","Flutter",null)],H.N("q<DS>"))})
-r($,"axS","akw",function(){var q="Mobile App Developer",p=t.s
-return H.a([G.ag6("Live Technologies Ltd.","http://www.live-technologies.net/","Sep 2018 - Current","Dhaka - Bangladesh",q,H.a(["Worked in a team to build a mobile application using Flutter.","Develop popular app like Mobile Browser & vDoc.","Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences."],p)),G.ag6("BD Assistant","https://bdassistant.com/home","May 2016 - Present","Rangpur - Bangladesh",q,H.a(["Develop E-commerce app to deliver product deals, offers, and coupons to the customers effectively.","Engineered and maintained major features of existing mobile application.","Research and suggest new mobile applications and protocols and implemented on need.","Support entire application lifecycle of existing application."],p))],H.N("q<C9>"))})
+r($,"axS","akw",function(){var q=t.s
+return H.a([G.ag6("Live Technologies Ltd.","http://www.live-technologies.net/","June 2016 - Current","Dhaka - Bangladesh","Senior Mobile App Developer",H.a(["Worked in a team to build a mobile application using Native Android and Flutter.","Develop popular app like Mobile Browser & vDoc.","Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences."],q)),G.ag6("Ping BD","https://bdassistant.com/home","FEB 2015 - MAY 2016","Rangpur - Bangladesh","Mobile App Developer",H.a(["Develop E-commerce app to deliver product deals, offers, and coupons to the customers effectively.","Engineered and maintained major features of existing mobile application.","Research and suggest new mobile applications and protocols and implemented on need.","Support entire application lifecycle of existing application."],q))],H.N("q<C9>"))})
 r($,"ayx","ae6",function(){var q="Duronto Browser",p="assets/images/projects/duronto/duronto.png"
 return L.EK(C.j7,"Bangla Browser",p,null,"",p,!0,!1,C.j7,C.at,"Android / IOS.","https://play.google.com/store/apps/details?id=com.duronto.lite&hl=en_US&gl=US","Duronto is Bangladesh's first Bangla browser with Bangla navigation and many features.",C.z5,q,"Flutter",q)})
 r($,"ayA","ae7",function(){var q="assets/images/projects/vdoc/vdoc.png"
