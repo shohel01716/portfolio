@@ -6,11 +6,11 @@ class ImagePath {
   static const String screenshotsDir = "assets/screenshots";
 
 
-  static const String DEV = "$imageDir/shishir2.JPG";
+  static const String DEV = "$imageDir/shohel.jpg";
   static const String CV = "$imageDir/Shaheduzzaman.pdf";
 
   static const String VYBZ = "$imageDir/vybz.jpg";
-  static const String DAVID = "$imageDir/shishir.jpg";
+  static const String DAVID = "$imageDir/shohel.jpg";
   static const String COLOSSAL_TOONS = "$imageDir/colossal_toons.jpg";
   static const String LOGIN_CATALOG = "$imageDir/login_catalog.jpg";
   static const String ONBOARDING_APP = "$imageDir/onboarding_app.jpg";
@@ -32,7 +32,7 @@ class ImagePath {
   static const String MEDITATION = "$imageDir/meditation.png";
   static const String ABOUT_PORTRAIT = "$imageDir/about_portrait.png";
   static const String DEV_ABOUT = "$imageDir/dev-about.jpg";
-  static const String DEV_SHISHIR = "$imageDir/shishir.jpg";
+  static const String DEV_SHISHIR = "$imageDir/shohel.jpg";
 
   static const String DEV_SKILLS = "$imageDir/skills.png";
   static const String GOOGLE_PLAY = "$imageDir/google_play.png";

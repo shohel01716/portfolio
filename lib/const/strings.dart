@@ -2,8 +2,8 @@ part of values;
 
 
   //strings
-  const String APP_NAME = "Shaheduzzaman";
-  const String PORTFOLIO_TITLE = "Shaheduzzaman's Portfolio";
+  const String APP_NAME = "Shohel Rana";
+  const String PORTFOLIO_TITLE = "Shohel's Portfolio";
   const String SITE_URL = "http://www.live-technologies.net/";
 
   const String HOME = "Home";
@@ -21,7 +21,7 @@ part of values;
 
   // Home Page
   const String HI = "Hi,";
-  const String DEV_INTRO = "I'm Md. Shaheduzzaman";
+  const String DEV_INTRO = "I'm Md. Shohel Rana";
   const String DEV_TITLE = "Mobile App Developer";
   const String DEV_DESC1 = "Flutter Developer";
   const String DEV_DESC2 = "UI/UX Enthusiast";
@@ -63,7 +63,7 @@ part of values;
   const String ABOUT_DEV_STORY_TITLE =
       "A little bit about myself.";
   const String ABOUT_MYSELF =
-      "Hi! I'm Md. Shaheduzzaman, a passionate software engineer based in Bangladesh, Dhaka. I enjoy building high quality and performant applications that provides users with value and a rich experience. I love building things than any others things.";
+      "Hi! I'm Md. Shohel Rana, a passionate software engineer based in Bangladesh, Dhaka. I enjoy building high quality and performant applications that provides users with value and a rich experience. I love building things than any others things.";
   const String ABOUT_DEV_TECHNOLOGY = "Technology";
   const String MOBILE_TECH = "Mobile Technologies";
   const String OTHER_TECH = "Other Technologies";
@@ -102,7 +102,7 @@ part of values;
   const String VIEW = "View";
   const String COMING_SOON = "COMING SOON !!";
   const String DEVELOPED_WITH_FLUTTER = "Developed using ";
-  const String DEV_EMAIL = "mdshaheduzzaman67@gmail.com";
+  const String DEV_EMAIL = "shohel01716@gmail.com";
   const String EMAIL_URL = "mailto:<$DEV_EMAIL>?subject=&body=";
 
   const String KEY_SKILLS = "KEY SKILLS";
@@ -115,10 +115,10 @@ part of values;
   const String PROJECT_NAME = "Project Name";
 
   const String INTRO = "Hello, my name is";
-  const String MY_NAME = "Md. Shaheduzzaman";
+  const String MY_NAME = "Md. Shohel Rana";
   const String PUNCH_LINE = "I build things with flutter";
   const String SPECIALITY = "FLUTTER DEV";
-  const String DESIGNED_IN = "Made in Ghana with ";
+  const String DESIGNED_IN = "Made in Dhaka";
   const String BUILT_BY = "Built by David Cobbina ";
 
   
@@ -158,10 +158,10 @@ part of values;
 
   //Socials
 
-  const String GITHUB_URL = "https://github.com/Shaheduzzaman67";
+  const String GITHUB_URL = "https://github.com/shohel01716";
   const String LINKED_IN_URL =
-      "https://www.linkedin.com/in/shishir-ove/";
-  const String FACEBOOK_URL = "https://www.facebook.com/shishirove";
+      "https://www.linkedin.com/in/shohel716/";
+  const String FACEBOOK_URL = "https://www.facebook.com/shohel716";
 
 
   //Contacts
@@ -240,7 +240,7 @@ part of values;
   const String VDOC = "vDOC";
   const String VDOC_PLATFORM = "Android / IOS.";
   const String VDOC_CATEGORY = "Health & Fitness.";
-  const String VDOC_DESIGNER = "Md. Shaheduzzaman";
+  const String VDOC_DESIGNER = "Md. Shaheduzzaman & Md. Shohel Rana";
   const String VDOC_SUBTITLE =
       "Easiest way to treat by Specialized doctor.";
   const String VDOC_DETAIL =
@@ -253,7 +253,7 @@ part of values;
 const String BMART = "B Mart by BRDGE";
 const String BMART_PLATFORM = "Android / IOS.";
 const String BMART_CATEGORY = "Shopping";
-const String BMART_DESIGNER = "Md. Shaheduzzaman";
+const String BMART_DESIGNER = "Md. Shaheduzzaman & Md. Shohel Rana";
 const String BMART_SUBTITLE =
     "B Mart aims to create a vibrant and robust online marketplace.";
 const String BMART_DETAIL =
@@ -266,7 +266,7 @@ const String BMART_PLAYSTORE_URL =
 const String MYSPORTS = "MySports";
 const String MYSPORTS_PLATFORM = "Android / IOS.";
 const String MYSPORTS_CATEGORY = "Sports";
-const String MYSPORTS_DESIGNER = "Md. Shaheduzzaman";
+const String MYSPORTS_DESIGNER = "Md. Shohel Rana";
 const String MYSPORTS_SUBTITLE =
     "Watch live matches";
 const String MYSPORTS_DETAIL =
@@ -278,7 +278,7 @@ const String MYSPORTS_PLAYSTORE_URL =
 const String SURVEY = "Survey";
 const String SURVEY_PLATFORM = "Android / IOS.";
 const String SURVEY_CATEGORY = "Productivity";
-const String SURVEY_DESIGNER = "Md. Shaheduzzaman";
+const String SURVEY_DESIGNER = "Md. Shaheduzzaman & Md. Shohel Rana";
 const String SURVEY_SUBTITLE =
     "Survey Lancer is a survey and data science company.";
 const String SURVEY_DETAIL =
