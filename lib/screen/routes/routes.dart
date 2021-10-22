@@ -20,10 +20,10 @@ class Path {
 
 class RouteConfiguration {
   static List<Path> paths = [
-   Path(
+/*   Path(
       r'^' + ContactPage.contactPageRoute,
       (context, matches) => const ContactPage(),
-    ),
+    ),*/
     Path(
       r'^' + AboutPage.aboutPageRoute,
       (context, matches) => const AboutPage(),
