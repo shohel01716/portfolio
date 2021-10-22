@@ -22,9 +22,9 @@ part of values;
   // Home Page
   const String HI = "Hi,";
   const String DEV_INTRO = "I'm Md. Shohel Rana";
-  const String DEV_TITLE = "Mobile App Developer";
+  const String DEV_TITLE = "Sr. Mobile App Developer";
   const String DEV_DESC1 = "Flutter Developer";
-  const String DEV_DESC2 = "UI/UX Enthusiast";
+  const String DEV_DESC2 = "Android Developer";
   const String SEE_MY_WORKS = "See my works";
   const String SCROLL_DOWN = "Scroll Down";
   const String PROGRAMMING_QOUTE = "Solve the problem. Then, write code";
@@ -48,9 +48,10 @@ part of values;
       "* Please enter something to send this form";
   const String SEND_MESSAGE = "Send Message";
   const String COPYRIGHT = "©  2021  Built by  $MY_NAME,";
+
   const String DESIGNED_BY = "Designed by Julius G.";
-  const String DESIGN_LINK =
-      "https://www.behance.net/gallery/63574251/Personal-Portfolio-Website-Design";
+  const String DESIGN_LINK = "https://www.behance.net/gallery/63574251/Personal-Portfolio-Website-Design";
+
   const String MESSAGE_ME = "Message me";
   const String EMAIL_RESPONSE = "Thanks for reaching out to me! I will get back to you ASAP";
   const String EMAIL_FAILED_RESPONSE = "Something went wrong. Please send me an email manually";
@@ -60,10 +61,9 @@ part of values;
   const String ABOUT_DEV_2 = "who has a track record of success creating apps";
   const String ABOUT_DEV_3 = "that are both well-received and commercially viable.";
   const String SUMMERY = "Summery";
-  const String ABOUT_DEV_STORY_TITLE =
-      "A little bit about myself.";
+  const String ABOUT_DEV_STORY_TITLE = "A little bit about myself.";
   const String ABOUT_MYSELF =
-      "Hi! I'm Md. Shohel Rana, a passionate software engineer based in Bangladesh, Dhaka. I enjoy building high quality and performant applications that provides users with value and a rich experience. I love building things than any others things.";
+      "Hi! I'm passionate software engineer based in Dhaka, Bangladesh. I really enjoy building high quality applications that provide best user experience with values. I love building my things.";
   const String ABOUT_DEV_TECHNOLOGY = "Technology";
   const String MOBILE_TECH = "Mobile Technologies";
   const String OTHER_TECH = "Other Technologies";
@@ -195,7 +195,7 @@ part of values;
   const String STARTED_MONTH_YEAR = "May 2017";
 
 
-  const String COMPANY_4 = "BD Assistant";
+  const String COMPANY_4 = "Ping BD";
   const String COMPANY_4_URL = "https://bdassistant.com/home";
   const String POSITION_4 = "Mobile App Developer";
   const String COMPANY_4_ROLE_1 =
@@ -207,20 +207,20 @@ part of values;
   const String COMPANY_4_ROLE_4 =
       "Support entire application lifecycle of existing application.";
   const String LOCATION_4 = "Rangpur - Bangladesh";
-  const String DURATION_4 = "May 2016 - Present";
+  const String DURATION_4 = "FEB 2015 - MAY 2016";
 
   const String COMPANY_1 = "Live Technologies Ltd.";
   const String COMPANY_1_URL = "http://www.live-technologies.net/";
-  const String POSITION_1 = "Mobile App Developer";
+  const String POSITION_1 = "Senior Mobile App Developer";
   const String COMPANY_1_ROLE_1 =
-      "Worked in a team to build a mobile application using Flutter.";
+      "Worked in a team to build a mobile application using Native Android and Flutter.";
   const String COMPANY_1_ROLE_2 =
       "Develop popular app like Mobile Browser & vDoc.";
   const String COMPANY_1_ROLE_3 =
       "Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences.";
 
   const String LOCATION_1 = "Dhaka - Bangladesh";
-  const String DURATION_1 = "Sep 2018 - Current";
+  const String DURATION_1 = "June 2016 - Current";
 
 
 
