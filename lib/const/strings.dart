@@ -222,8 +222,16 @@ part of values;
   const String LOCATION_1 = "Dhaka - Bangladesh";
   const String DURATION_1 = "June 2016 - Current";
 
+const String COMPANY_2 = "The Solveware Co. Pte. Ltd.";
+const String COMPANY_2_URL = "http://www.live-technologies.net/";
+const String POSITION_2 = "Freelance Software Developer, Singapore";
+const String COMPANY_2_ROLE_1 =
+    "Worked in a team to build a mobile application using Flutter.";
+const String COMPANY_2_ROLE_2 =
+    "Develop popular app like B Mart by BRDGE and Stronggrr.";
 
-
+const String LOCATION_2 = "Dhaka - Bangladesh";
+const String DURATION_2 = "MAY 2021 - SEP 2021";
 
   const String NIMBUS = "Nimbus";
   const String NIMBUS_PLATFORM = "Web.";

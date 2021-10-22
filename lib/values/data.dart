@@ -267,6 +267,19 @@ class Data {
       location: LOCATION_1,
       duration: DURATION_1,
     ),
+
+    ExperienceData(
+      company: COMPANY_2,
+      position: POSITION_2,
+      companyUrl: COMPANY_2_URL,
+      roles: [
+        COMPANY_2_ROLE_1,
+        COMPANY_2_ROLE_2,
+      ],
+      location: LOCATION_2,
+      duration: DURATION_2,
+    ),
+
     ExperienceData(
       company: COMPANY_4,
       position: POSITION_4,
