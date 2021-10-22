@@ -56773,7 +56773,7 @@ C(a,b){return T.cN(null,null,30)}}
 R.Gx.prototype={
 C(a,b){return T.cN(null,null,40)}}
 F.Dx.prototype={
-C(a,b){return new D.u3(new S.uk("/home",T.ax4(),"Shaheduzzaman's Portfolio",$.akn(),!1,null),null)}}
+C(a,b){return new D.u3(new S.uk("/home",T.ax4(),"Shohel's Portfolio",$.akn(),!1,null),null)}}
 T.rd.prototype={
 ae(){return new T.Hs(null,C.n)}}
 T.Hs.prototype={
@@ -57196,7 +57196,7 @@ p=M.Z(l,T.bT(H.a([p,new R.dl(1,l),R.fC(!1,!0,L.abN(C.Ab,C.l,30),l,!0,l,l,l,l,l,l
 n=H.a([new R.dl(2,l)],o)
 C.b.I(n,m.RN(b,m.a.d))
 n.push(new R.dl(2,l))
-n=T.aZ(H.a([p,T.tn(T.aZ(n,C.v,C.o,C.p),1),L.bJ("\xa9  2021  Built by  Md. Shaheduzzaman,",j,l,l),new R.dc(l)],o),C.v,C.o,C.p)
+n=T.aZ(H.a([p,T.tn(T.aZ(n,C.v,C.o,C.p),1),L.bJ("\xa9  2021  Built by  Md. Shohel Rana,",j,l,l),new R.dc(l)],o),C.v,C.o,C.p)
 p=G.eg(b,0.1)
 return M.Z(l,new Z.BR(M.Z(l,T.cb(C.S,H.a([n,T.d9(0,M.Z(l,new T.d2(C.vC,l,l,Y.acz(!1,18,$.aaw()),l),C.j,l,l,l,l,l,l,new V.au(24,0,0,p),l,l,l,l),l,l,l,l,l,l)],o),C.O),C.j,C.h,l,l,l,k.a.b,l,l,l,l,l,q),l),C.j,l,l,l,l,r.a.b,l,l,l,l,l,s)},
 RN(a,b){var s,r,q,p,o,n,m=H.a([],t.p)
@@ -57631,11 +57631,11 @@ c=k.goX()
 o=t.kK
 n=k.gpZ()
 m=t.p
-n=E.aba(T.aZ(H.a([A.l5(r,1,12,"Hi! I'm Md. Shaheduzzaman, a passionate software engineer based in Bangladesh, Dhaka. I enjoy building high quality and performant applications that provides users with value and a rich experience. I love building things than any others things.",j,b,p)],m),C.v,C.o,C.p),n,j,j,"01 ","Summery".toUpperCase(),"A little bit about myself.",i)
+n=E.aba(T.aZ(H.a([A.l5(r,1,12,"Hi! I'm Md. Shohel Rana, a passionate software engineer based in Bangladesh, Dhaka. I enjoy building high quality and performant applications that provides users with value and a rich experience. I love building things than any others things.",j,b,p)],m),C.v,C.o,C.p),n,j,j,"01 ","Summery".toUpperCase(),"A little bit about myself.",i)
 l=k.gq_()
 l=E.aba(T.aZ(H.a([A.l5(q,1,12,"I use a number of tools to aid my creative process when bringing things to life.",j,b,p)],m),C.v,C.o,C.p),l,new T.fd(new T.a2j(k),T.aZ(H.a([new R.eH(j),new V.GN(k.gw0(),i,j)],m),C.v,C.o,C.p),new D.bO("technology-list",o)),j,"02 ","Technology".toUpperCase(),"What I use.",i)
 b=k.gmg()
-return M.DY(C.h,j,B.Dg(H.a([new T.f9(new V.au(h,f,g,0),Z.Bj(T.aZ(H.a([new M.zU(i,c,j),new G.d3(0.1,j),new T.fd(new T.a2k(k,a1),n,new D.bO("story-section",o)),new G.d3(0.1,j),new T.fd(new T.a2l(k),l,new D.bO("technology-section",o)),new G.d3(0.1,j),new T.fd(new T.a2m(k),E.aba(T.aZ(H.a([new R.dc(j),T.mY(k.S0($.akz()),C.r,20,20)],m),C.E,C.o,C.p),b,T.aZ(H.a([new R.eH(j),S.c4(C.h,k.gmg(),C.w,1,1,"Email.",j,s,1/0,1),new R.eH(j),A.ig(k.gmg(),C.w,!1,!0,C.h,!1,!0,2,1,j,new T.a2n(),"mdshaheduzzaman67@gmail.com",a,1/0)],m),C.E,C.o,C.p),j,"03 ","Contact".toUpperCase(),"Social.",i),new D.bO("contact-section",o)),new G.d3(0.2,j)],m),C.v,C.o,C.p),i),j),new N.jQ(j)],m),j,C.au,C.cH),C.dK,!0,!0,d,C.h,C.at,new T.a2o(k),"About","/about")},
+return M.DY(C.h,j,B.Dg(H.a([new T.f9(new V.au(h,f,g,0),Z.Bj(T.aZ(H.a([new M.zU(i,c,j),new G.d3(0.1,j),new T.fd(new T.a2k(k,a1),n,new D.bO("story-section",o)),new G.d3(0.1,j),new T.fd(new T.a2l(k),l,new D.bO("technology-section",o)),new G.d3(0.1,j),new T.fd(new T.a2m(k),E.aba(T.aZ(H.a([new R.dc(j),T.mY(k.S0($.akz()),C.r,20,20)],m),C.E,C.o,C.p),b,T.aZ(H.a([new R.eH(j),S.c4(C.h,k.gmg(),C.w,1,1,"Email.",j,s,1/0,1),new R.eH(j),A.ig(k.gmg(),C.w,!1,!0,C.h,!1,!0,2,1,j,new T.a2n(),"shohel01716@gmail.com",a,1/0)],m),C.E,C.o,C.p),j,"03 ","Contact".toUpperCase(),"Social.",i),new D.bO("contact-section",o)),new G.d3(0.2,j)],m),C.v,C.o,C.p),i),j),new N.jQ(j)],m),j,C.au,C.cH),C.dK,!0,!0,d,C.h,C.at,new T.a2o(k),"About","/about")},
 S0(a){var s,r,q,p,o,n=null,m=this.c
 m.toString
 m=K.as(m).N.y
@@ -57664,7 +57664,7 @@ T.a2m.prototype={
 $1(a){if(a.ghL()*100>50)this.a.gmg().ay(0)},
 $S:14}
 T.a2n.prototype={
-$0(){Y.f3("mailto:<mdshaheduzzaman67@gmail.com>?subject=&body=")},
+$0(){Y.f3("mailto:<shohel01716@gmail.com>?subject=&body=")},
 $S:0}
 T.a2i.prototype={
 $0(){Y.f3(this.a[this.b].b)},
@@ -57681,16 +57681,16 @@ M.zU.prototype={
 C(a,b){var s=this.c,r=s*0.15,q=s*0.3
 return K.hM(new M.Pb(this,G.aw(b,r,r,s*0.05,null),G.aw(b,q,q,s*0.4,null)))}}
 M.Pb.prototype={
-$2(a,b){var s,r,q,p=null,o=t.w,n=a.M(o).f,m=b.c.a,l=m*0.1
-n=n.a.b*0.1
+$2(a,b){var s,r,q,p=null,o="assets/images/shohel.jpg",n=t.w,m=a.M(n).f,l=b.c.a,k=l*0.1
+m=m.a.b*0.1
 F.hL()
 s=this.a
 r=t.p
 q=s.d
-if(m<=600)return T.aZ(H.a([new M.rb(q,a.M(o).f.a.a,p),new R.eb(p),M.Z(p,T.ab6(K.rz(new P.br(50,50)),U.e5("assets/images/shishir.jpg",p,p,p,p,p)),C.j,p,p,p,p,p,p,p,new V.au(l,n,l,n),p,p,p)],r),C.E,C.o,C.p)
-else{o=s.c*0.55
-n=this.c
-return T.bT(H.a([Z.Bj(new M.rb(q,o,p),o),T.cN(p,p,this.b),M.Z(p,new T.hl(new S.ay(n,n,0,G.eg(a,0.55)),U.e5("assets/images/shishir2.JPG",p,p,p,p,p),p),C.j,C.h,p,p,p,p,p,p,p,p,p,p)],r),C.v,C.o,C.p,p)}},
+if(l<=600)return T.aZ(H.a([new M.rb(q,a.M(n).f.a.a,p),new R.eb(p),M.Z(p,T.ab6(K.rz(new P.br(50,50)),U.e5(o,p,p,p,p,p)),C.j,p,p,p,p,p,p,p,new V.au(k,m,k,m),p,p,p)],r),C.E,C.o,C.p)
+else{n=s.c*0.55
+m=this.c
+return T.bT(H.a([Z.Bj(new M.rb(q,n,p),n),T.cN(p,p,this.b),M.Z(p,new T.hl(new S.ay(m,m,0,G.eg(a,0.55)),U.e5(o,p,p,p,p,p),p),C.j,C.h,p,p,p,p,p,p,p,p,p,p)],r),C.v,C.o,C.p,p)}},
 $S:55}
 M.rb.prototype={
 C(a,b){var s,r=null,q=K.as(b).N.y,p=q==null?r:q.Gu(G.aw(b,25,35,30,r),C.fx,1.2)
@@ -57864,7 +57864,7 @@ f=b.gq5()
 d=L.bJ("view all projects".toLowerCase(),n,a,a)
 c=n.r
 c.toString
-return M.DY(C.h,a,B.Dg(H.a([new Y.tF(h,i,a),new G.d3(0.1,a),new T.fd(new V.a5q(b),g,new D.bO("recent-projects",t.kK)),new G.d3(0.1,a),a0,new G.d3(0.05,a),M.Z(a,T.aZ(H.a([o,new R.fT(a),T.f6(E.aaW(new P.t(0,0),new U.GP(new V.a5r(a2),a,a,C.j,a,!1,T.bT(H.a([d,new R.Gr(a),M.Z(a,U.e5("assets/images/right-arrow.png",a,a,a,a,25),C.j,a,a,a,a,a,a,new V.au(0,c/2,0,0),a,a,a,a)],e),C.v,C.bm,C.ad,a),a),f,a,new P.t(0.05,0)),C.aF,new V.a5s(b),new V.a5t(b),a,!0)],e),C.E,C.o,C.p),C.j,a,a,a,a,a,a,m,a,a,a,a),new G.d3(0.15,a),new N.jQ(a)],e),b.e,C.au,C.cH),new G.t1("Md. Shaheduzzaman",j,new V.a5u(b),a),!1,k,l,C.h,C.at,new V.a5v(b),"Home","/home")},
+return M.DY(C.h,a,B.Dg(H.a([new Y.tF(h,i,a),new G.d3(0.1,a),new T.fd(new V.a5q(b),g,new D.bO("recent-projects",t.kK)),new G.d3(0.1,a),a0,new G.d3(0.05,a),M.Z(a,T.aZ(H.a([o,new R.fT(a),T.f6(E.aaW(new P.t(0,0),new U.GP(new V.a5r(a2),a,a,C.j,a,!1,T.bT(H.a([d,new R.Gr(a),M.Z(a,U.e5("assets/images/right-arrow.png",a,a,a,a,25),C.j,a,a,a,a,a,a,new V.au(0,c/2,0,0),a,a,a,a)],e),C.v,C.bm,C.ad,a),a),f,a,new P.t(0.05,0)),C.aF,new V.a5s(b),new V.a5t(b),a,!0)],e),C.E,C.o,C.p),C.j,a,a,a,a,a,a,m,a,a,a,a),new G.d3(0.15,a),new N.jQ(a)],e),b.e,C.au,C.cH),new G.t1("Md. Shohel Rana",j,new V.a5u(b),a),!1,k,l,C.h,C.at,new V.a5v(b),"Home","/home")},
 RX(a,b,c){var s,r,q,p,o,n,m,l,k=null,j=H.a([],t.p)
 for(s=c,r=1;r>=0;--r){q="0"+(r+1)
 p=a[r]
@@ -57974,17 +57974,17 @@ s.gbn(s).cA(0)}else if(a===C.z){s=this.a
 s.gbn(s).ay(0)}},
 $S:1}
 Y.a5k.prototype={
-$2(a,b){var s,r,q,p,o=this,n=null,m=b.c.a
+$2(a,b){var s,r,q,p,o=this,n=null,m="assets/images/shohel.jpg",l=b.c.a
 F.hL()
 s=o.a
 r=t.p
-if(m<768){q=o.b
-p=M.Z(n,T.ab6(K.rz(new P.br(50,50)),U.e5("assets/images/shishir2.JPG",n,n,n,n,n)),C.j,n,n,n,n,n,n,n,q,n,n,n)
+if(l<768){q=o.b
+p=M.Z(n,T.ab6(K.rz(new P.br(50,50)),U.e5(m,n,n,n,n,n)),C.j,n,n,n,n,n,n,n,q,n,n,n)
 q=q.a_y(0)
-return T.aZ(H.a([p,M.Z(n,M.Z(n,new Y.nn(s.a.d,m,n),C.j,n,n,n,n,n,n,n,n,n,n,m),C.j,n,n,n,n,n,n,n,q,n,n,n)],r),C.v,C.o,C.p)}else{q=m*0.4
+return T.aZ(H.a([p,M.Z(n,M.Z(n,new Y.nn(s.a.d,l,n),C.j,n,n,n,n,n,n,n,n,n,n,l),C.j,n,n,n,n,n,n,n,q,n,n,n)],r),C.v,C.o,C.p)}else{q=l*0.4
 q=M.Z(n,M.Z(n,new Y.nn(s.a.d,q,n),C.j,n,n,n,n,n,n,n,n,n,n,q),C.j,n,n,n,n,n,n,o.c,n,n,n,n)
-s=T.cN(n,n,m*0.05)
-p=U.e5("assets/images/shishir.jpg",n,n,n,n,m*0.35)
+s=T.cN(n,n,l*0.05)
+p=U.e5(m,n,n,n,n,l*0.35)
 return T.bT(H.a([q,s,M.Z(n,T.ab6(K.rz(new P.br(50,50)),p),C.j,n,n,n,n,n,n,o.d,n,n,n,n)],r),C.E,C.o,C.p,n)}},
 $S:55}
 Y.a5l.prototype={
@@ -58021,7 +58021,7 @@ r=M.Z(h,S.c4(C.h,q,C.w,1,3,"Hi,",h,o?h:p.cq(C.h,s),r,1),C.j,h,h,h,h,h,h,C.dJ,h,h
 q=i.a
 n=q.c
 q=q.d
-q=M.Z(h,S.c4(C.h,n,C.w,1,3,"I'm Md. Shaheduzzaman",h,o?h:p.cq(C.h,s),q,1),C.j,h,h,h,h,h,h,C.dJ,h,h,h,h)
+q=M.Z(h,S.c4(C.h,n,C.w,1,3,"I'm Md. Shohel Rana",h,o?h:p.cq(C.h,s),q,1),C.j,h,h,h,h,h,h,C.dJ,h,h,h,h)
 n=i.a
 m=n.c
 n=n.d
@@ -58174,7 +58174,7 @@ q=d.a
 j=q.d
 q=q.e
 i=t.p
-o=M.Z(c,T.mY(H.a([X.EH(j,q.ch,"Platform",l),X.EH(j,q.r,"Category",l),X.EH(j,"Md. Shaheduzzaman","Author",l)],i),C.r,o,m),C.j,c,c,c,c,c,c,c,c,c,c,n)
+o=M.Z(c,T.mY(H.a([X.EH(j,q.ch,"Platform",l),X.EH(j,q.r,"Category",l),X.EH(j,"Md. Shohel Rana","Author",l)],i),C.r,o,m),C.j,c,c,c,c,c,c,c,c,c,c,n)
 q=d.a
 j=q.e
 h=j.cx
@@ -58310,7 +58310,7 @@ C(a,b){var s,r,q,p,o=null
 K.as(b)
 s=this.f
 r=L.bJ("< ",A.dJ(o,o,o,o,o,o,o,o,o,o,o,s,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
-q=L.bJ("Shaheduzzaman",A.dJ(o,o,this.e,o,o,o,o,o,"Agustina",o,o,s,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
+q=L.bJ("Shohel",A.dJ(o,o,this.e,o,o,o,o,o,"Agustina",o,o,s,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
 p=b.M(t.w).f.a.a>=1000?" />\t\t":" />"
 return T.bT(H.a([r,q,L.bJ(p,A.dJ(o,o,o,o,o,o,o,o,o,o,o,s,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)],t.p),C.v,C.o,C.ad,o)}}
 G.t1.prototype={
@@ -58583,7 +58583,7 @@ B.w1.prototype={
 C(a,b){var s,r,q=null,p=K.as(b).N.y,o=p==null?q:p.cq(C.l,14)
 p=Y.acz(!0,18,$.aaw())
 s=t.p
-r=T.bT(H.a([L.bJ("\xa9  2021  Built by  Md. Shaheduzzaman,",o,q,q)],s),C.v,C.bm,C.p,q)
+r=T.bT(H.a([L.bJ("\xa9  2021  Built by  Md. Shohel Rana,",o,q,q)],s),C.v,C.bm,C.p,q)
 return T.aZ(H.a([p,new R.eb(q),r,new R.j5(q),T.bT(H.a([R.fC(!1,!0,A.ig(q,C.h,!1,!1,C.l,!0,!1,2,1,q,q,"Designed by Julius G.",o==null?q:o.kZ(C.bC),1/0),q,!0,q,q,q,q,q,q,q,q,q,new B.a_f(),q,q,q)],s),C.v,C.bm,C.p,q),new R.j6(q),new B.t5(q)],s),C.v,C.o,C.p)}}
 B.a_f.prototype={
 $0(){Y.f3(u.Y)},
@@ -58592,7 +58592,7 @@ B.w0.prototype={
 C(a,b){var s,r,q=null,p=K.as(b).N.y,o=p==null?q:p.cq(C.l,14)
 p=t.p
 s=T.bT(H.a([Y.acz(!0,18,$.aaw())],p),C.v,C.bm,C.p,q)
-r=L.bJ("\xa9  2021  Built by  Md. Shaheduzzaman,",o,q,q)
+r=L.bJ("\xa9  2021  Built by  Md. Shohel Rana,",o,q,q)
 return T.aZ(H.a([s,new R.dc(q),T.bT(H.a([r,new R.mD(q),R.fC(!1,!0,A.ig(q,C.h,!1,!1,C.l,!0,!1,2,1,q,q,"Designed by Julius G.",o==null?q:o.kZ(C.bC),1/0),q,!0,q,q,q,q,q,q,q,q,q,new B.a_e(),q,q,q)],p),C.v,C.bm,C.p,q),new R.j6(q),new B.t5(q)],p),C.v,C.o,C.p)}}
 B.a_e.prototype={
 $0(){Y.f3(u.Y)},
@@ -63932,9 +63932,9 @@ return R.asO(A.dJ(p,p,C.c5,p,p,p,p,p,q,p,p,16,C.U,C.av,p,p,!0,p,p,p,p,p,p,p,p),B
 r($,"ayG","akU",function(){return H.a([T.Ej("^/about",new T.YL()),T.Ej("^/works",new T.YM()),T.Ej("^/project-detail",new T.YN()),T.Ej("^/experience",new T.YO()),T.Ej("^/home",new T.YP())],H.N("q<Ei>"))})
 r($,"aAL","ame",function(){return C.j8.JH(0.35)})
 r($,"axT","ae3",function(){return H.a([Z.We("Home","/home"),Z.We("About","/about"),Z.We("Works","/works"),Z.We("Experience","/experience")],H.N("q<DE>"))})
-r($,"axX","aaw",function(){return H.a([Y.kt(C.fy,"Github","https://github.com/Shaheduzzaman67"),Y.kt(C.fz,"LinkedIn","https://www.linkedin.com/in/shishir-ove/"),Y.kt(C.fA,"Facebook","https://www.facebook.com/shishirove")],H.N("q<pA>"))})
-r($,"axY","aky",function(){return H.a([Y.kt(C.fy,"Github","https://github.com/Shaheduzzaman67"),Y.kt(C.fz,"LinkedIn","https://www.linkedin.com/in/shishir-ove/"),Y.kt(C.fA,"Facebook","https://www.facebook.com/shishirove")],H.N("q<pA>"))})
-r($,"axZ","akz",function(){return H.a([Y.kt(C.fz,"LinkedIn","https://www.linkedin.com/in/shishir-ove/"),Y.kt(C.fA,"Facebook","https://www.facebook.com/shishirove"),Y.kt(C.fy,"Github","https://github.com/Shaheduzzaman67")],H.N("q<pA>"))})
+r($,"axX","aaw",function(){return H.a([Y.kt(C.fy,"Github","https://github.com/shohel01716"),Y.kt(C.fz,"LinkedIn","https://www.linkedin.com/in/shohel716/"),Y.kt(C.fA,"Facebook","https://www.facebook.com/shohel716")],H.N("q<pA>"))})
+r($,"axY","aky",function(){return H.a([Y.kt(C.fy,"Github","https://github.com/shohel01716"),Y.kt(C.fz,"LinkedIn","https://www.linkedin.com/in/shohel716/"),Y.kt(C.fA,"Facebook","https://www.facebook.com/shohel716")],H.N("q<pA>"))})
+r($,"axZ","akz",function(){return H.a([Y.kt(C.fz,"LinkedIn","https://www.linkedin.com/in/shohel716/"),Y.kt(C.fA,"Facebook","https://www.facebook.com/shohel716"),Y.kt(C.fy,"Github","https://github.com/shohel01716")],H.N("q<pA>"))})
 r($,"axW","ae5",function(){return H.a([$.ae6(),$.ae7()],H.N("q<v9>"))})
 r($,"axV","ae4",function(){return H.a([$.ae6(),$.ae7(),$.akN(),$.akO(),$.akP()],H.N("q<v9>"))})
 r($,"axU","akx",function(){return H.a([G.agP("https://github.com/david-legend/amor",!0,!0,!0,!0,"BD Assistant is an on-demand home service app. Save time and get hassle free repairing services of all type of electronics and machines starting from home appliances to vehicle repairing, plumber to electrician services etc.","ASSISTANT","Flutter","https://play.google.com/store/apps/details?id=com.bdassistant.chatbotclient"),G.agP("",!1,!1,!1,!1,"","Diet Achiver","Flutter",null)],H.N("q<DS>"))})
@@ -63943,13 +63943,13 @@ return H.a([G.ag6("Live Technologies Ltd.","http://www.live-technologies.net/","
 r($,"ayx","ae6",function(){var q="Duronto Browser",p="assets/images/projects/duronto/duronto.png"
 return L.EK(C.j7,"Bangla Browser",p,null,"",p,!0,!1,C.j7,C.at,"Android / IOS.","https://play.google.com/store/apps/details?id=com.duronto.lite&hl=en_US&gl=US","Duronto is Bangladesh's first Bangla browser with Bangla navigation and many features.",C.z5,q,"Flutter",q)})
 r($,"ayA","ae7",function(){var q="assets/images/projects/vdoc/vdoc.png"
-return L.EK(C.j5,"Health & Fitness.",q,"Md. Shaheduzzaman","",q,!0,!1,C.z_,C.yJ,"Android / IOS.","https://play.google.com/store/apps/details?id=net.technologies.vpatientapp&hl=en_US&gl=US","An online platform for consultation with doctors remotely.",C.j5,"vDOC","Flutter","vDOC")})
+return L.EK(C.j5,"Health & Fitness.",q,"Md. Shaheduzzaman & Md. Shohel Rana","",q,!0,!1,C.z_,C.yJ,"Android / IOS.","https://play.google.com/store/apps/details?id=net.technologies.vpatientapp&hl=en_US&gl=US","An online platform for consultation with doctors remotely.",C.j5,"vDOC","Flutter","vDOC")})
 r($,"ayw","akN",function(){var q="assets/images/projects/bmart/bmart.png"
-return L.EK(C.fh,"Shopping",q,"Md. Shaheduzzaman","",q,!0,!1,C.yX,C.za,"Android / IOS.","https://play.google.com/store/apps/details?id=brdge.store.sg","B Mart aims to create a vibrant and robust online marketplace by coonnecting B Mart invetors and borrowers through e-commerce activities. Borrowers are able to list product offerings though the B Mart store as merchants, and invesotrs can purchase these goods and services through it as consumers.",C.fh,"B Mart aims to create a vibrant and robust online marketplace.","Flutter","B Mart by BRDGE")})
+return L.EK(C.fh,"Shopping",q,"Md. Shaheduzzaman & Md. Shohel Rana","",q,!0,!1,C.yX,C.za,"Android / IOS.","https://play.google.com/store/apps/details?id=brdge.store.sg","B Mart aims to create a vibrant and robust online marketplace by coonnecting B Mart invetors and borrowers through e-commerce activities. Borrowers are able to list product offerings though the B Mart store as merchants, and invesotrs can purchase these goods and services through it as consumers.",C.fh,"B Mart aims to create a vibrant and robust online marketplace.","Flutter","B Mart by BRDGE")})
 r($,"ayy","akO",function(){var q="assets/images/projects/mySports/mysports.png"
-return L.EK(C.fk,"Sports",q,"Md. Shaheduzzaman","",q,!0,!1,C.fk,C.yY,"Android / IOS.","https://play.google.com/store/apps/details?id=net.livetechnologies.mysports","Robi My Sports for all sports entertainment from Cricket, Football, Tennis etc.",C.fk,"Watch live matches","Flutter","MySports")})
+return L.EK(C.fk,"Sports",q,"Md. Shohel Rana","",q,!0,!1,C.fk,C.yY,"Android / IOS.","https://play.google.com/store/apps/details?id=net.livetechnologies.mysports","Robi My Sports for all sports entertainment from Cricket, Football, Tennis etc.",C.fk,"Watch live matches","Flutter","MySports")})
 r($,"ayz","akP",function(){var q="assets/images/projects/survey/survey.png"
-return L.EK(C.zb,"Productivity",q,"Md. Shaheduzzaman","",q,!0,!0,C.yS,C.zg,"Android / IOS.","https://www.surveylancer.com/","Survey Lancer is a survey and data science company that helps marketers to connect with their customers by letting them know about their customer's needs.",C.z9,"Survey Lancer is a survey and data science company.","Flutter","Survey")})
+return L.EK(C.zb,"Productivity",q,"Md. Shaheduzzaman & Md. Shohel Rana","",q,!0,!0,C.yS,C.zg,"Android / IOS.","https://www.surveylancer.com/","Survey Lancer is a survey and data science company that helps marketers to connect with their customers by letting them know about their customer's needs.",C.z9,"Survey Lancer is a survey and data science company.","Flutter","Survey")})
 s($,"az9","ae9",function(){return new P.w()})
 r($,"at5","ale",function(){return new F.VK($.ae9())})
 s($,"aze","ali",function(){return new G.a26()})})();(function nativeSupport(){!function(){var s=function(a){var m={}
